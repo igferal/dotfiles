@@ -1,0 +1,29 @@
+tap "adoptopenjdk/openjdk"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "mas"
+brew "node"
+brew "tldr"
+brew "watchman"
+brew "yarn"
+brew "youtube-dl"
+cask "adoptopenjdk8"
+cask "dozer"
+mas "1Password 7", id: 1333542190
+mas "Affinity Photo", id: 824183456
+mas "DaVinci Resolve", id: 571213070
+mas "DevCleaner", id: 1388020431
+mas "GoodNotes", id: 1444383602
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
+mas "Monit", id: 1014850245
+mas "Pocket", id: 568494494
+mas "Slack", id: 803453959
+mas "Termius", id: 1176074088
+mas "The Unarchiver", id: 425424353
+mas "Twitter", id: 1482454543
+mas "Unclutter", id: 577085396
+mas "Unsplash Wallpapers", id: 1284863847
+mas "Xcode", id: 497799835
